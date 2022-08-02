@@ -1,0 +1,38 @@
+@charset "UTF-8"; 
+
+/* 共通要素 */
+
+body { 
+  background-color: #ffd700;
+} 
+
+#wrap { 
+  width: 600px; 
+  margin: auto; 
+  background-color: white; 
+} 
+
+header { 
+  padding: 10px; 
+  height: 80px; 
+  background-color: blue;
+  color: white;
+} 
+
+nav { 
+  padding: 8px 40px; 
+  background-color: black; 
+  color: white; 
+} 
+
+main{ 
+  padding: 40px; 
+  height : 400px; 
+} 
+
+footer { 
+  padding: 40px; 
+  height: 40px; 
+  background-color : black; 
+  color: white; 
+} 
